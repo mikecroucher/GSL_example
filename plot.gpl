@@ -1,0 +1,5 @@
+set datafile separator ","
+set term png
+set output 'dawson.png'
+plot 'results.txt' using 1:2 with line lw 1
+
