@@ -19,3 +19,4 @@ Generate the plot
 gnuplot plot.gpl
 ```
 
+![Dawson integral](./dawson.png)
